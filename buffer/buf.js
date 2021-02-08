@@ -5,6 +5,7 @@ console.log(buf);
 buf=new Buffer(1024);
 console.log(buf);
 console.log(buf.length);
+console.log();
 
 buf=new Buffer(100);
 for(var i=0;i<buf.length;i++)
