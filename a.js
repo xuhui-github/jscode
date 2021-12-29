@@ -9,3 +9,4 @@ for(let value of a)
   total+=value;
 console.log(total);
 /////////////////////
+//////
